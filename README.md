@@ -46,7 +46,7 @@ For more details on our version naming schema please read [Choosing a version](#
     + [Benchmarks](#benchmarks)
   * [Projects Using Badger](#projects-using-badger)
   * [Contributing](#contributing)
-  * [Contact](#contact)
+  * [Contact](#contact) 
 
 ## Getting Started
 
